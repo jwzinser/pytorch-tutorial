@@ -1,0 +1,6 @@
+torch
+torchvision
+sklearn
+numpy
+matplotlib
+requests
